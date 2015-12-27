@@ -1,0 +1,7 @@
+
+public class ShamAt {
+	public static void main(String[]args){
+		System.out.println("hey babe ");
+	}
+
+}
